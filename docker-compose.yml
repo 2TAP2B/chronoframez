@@ -1,6 +1,6 @@
 services:
   chronoframe:
-    image: ghcr.io/2TAP2B/chronoframez:latest
+    image: ghcr.io/2tap2b/chronoframez:latest
     container_name: chronoframe
     restart: unless-stopped
     ports:
